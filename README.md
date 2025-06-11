@@ -41,7 +41,7 @@ INVALID
 
 ---
 
-🧮 How the Luhn Algorithm Works
+## 🧮 How the Luhn Algorithm Works
 
 - 🧼 Remove spaces/dashes from input
 - ➕ Add all digits in odd positions from the right
@@ -52,6 +52,7 @@ INVALID
 
 ---
 
-🙋‍♀️ Made By
-Challenging mini project by Tanvi 🌸
+## 🙋‍♀️ Made By
+
+Challenging mini project by **Tanvi** 🌸  
 A great logic exercise for improving Python problem-solving skills!
